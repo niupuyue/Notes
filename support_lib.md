@@ -320,3 +320,8 @@ Android的UI布局样式
 Android本地图片选择拍照框架
 ![拍照](/img/takephoto.gif)
 ![选择照片](/img/takephoto_02.gif)
+
+# Tiny
+[github地址](https://github.com/Sunzxyong/Tiny)
+描述：<br />
+Android图片压缩框架
