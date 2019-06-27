@@ -302,3 +302,21 @@ Android的UI布局样式
 描述:<br/>
 在开发软件的过程中我们经常使用SQLie和SharePreference。但是这两个对象很难实现图形化显示，本框架就是专门针对这样的情况的
 
+# LFilePicker
+[github地址](https://github.com/leonHua/LFilePicker)
+![文件选择](/img/lfilepicker_01.png)
+描述：<br />
+一个通用的文件选择器组件，可以过滤文件，可以单选/复选，可以从固定路径进入 (但是好像当点击返回按钮时自动退出文件选择，这个后面我会自己写一个)
+
+
+# AndroidVideoCache
+[github地址](https://github.com/danikula/AndroidVideoCache)
+描述：<br />
+语音/视频缓存框架，可以通过这个框架实现边下载边播放的操作
+
+# TakePhoto
+[github地址](https://github.com/crazycodeboy/TakePhoto)
+描述:<br />
+Android本地图片选择拍照框架
+![拍照](/img/takephoto.gif)
+![选择照片](/img/takephoto_02.gif)
