@@ -7,9 +7,6 @@ WeChat高仿微信
 GankMeizhi
 [项目地址](https://github.com/xingrz/GankMeizhi)
 
-Meizhi
-[项目地址](https://github.com/drakeet/Meizhi)
-
 JianDan
 [项目地址](https://github.com/ZhaoKaiQiang/JianDan)
 
@@ -21,10 +18,6 @@ SimplifyReader
 
 StickerCamera
 [项目地址](https://github.com/Skykai521/StickerCamera)
-
-
-验证码助手 SmsCodeHelper
-[项目地址](https://github.com/drakeet/SmsCodeHelper)
 
 Notes-开源记事本应用
 [项目地址](https://github.com/lguipeng/Notes)
