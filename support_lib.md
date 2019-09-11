@@ -106,15 +106,16 @@ android可以实现点击之后显示一个下拉的选择内容，并且有动�
 [github地址](https://github.com/Luosunce/material-design-data)<br/>
 
 # android-logger
-![logger](/img/logger_01.png)<br/>
+<img src="/img/logger_01.gif" width="250px" height="500px" alt="logger" align=center>
 [github地址](https://github.com/orhanobut/logger)<br/>
 描述:<br/>
 一个关于Android的Log日志打印的框架，可以打印字符串，对象，集合等内容
 
 # android_Matisse
-![Matisse](/img/Matisse_01.png)<br/>
-![Matisse](/img/Matisse_01.png)<br/>
-![Matisse](/img/Matisse_01.png)<br/>
+<img src="/img/Matisse_01.png" width="250px" height="500px" alt="Matisse" align=center>
+<img src="/img/Matisse_02.png" width="250px" height="500px" alt="Matisse" align=center>
+<img src="/img/Matisse_03.png" width="250px" height="500px" alt="Matisse" align=center>
+
 [github地址](https://github.com/zhihu/Matisse)<br/>
 描述:<br/>
 一个关于本地图片和视频选择的框架，支持的类型还是比较多的，但是其实我觉得只是实现了UI和加载数据的方式，作用可能不大
@@ -125,7 +126,7 @@ android可以实现点击之后显示一个下拉的选择内容，并且有动�
 敢和腾讯对着干的360出品，Android组件插件化的内容，还没有实践过，不敢保证，不过应该是不错的
 
 # android_AutoFlowLayout
-![AutoFlowLayout](/img/autoflowlayout_01.jpeg)<br/>
+<img src="/img/autoflowlayout_01.jpeg" width="400px" height="500px" alt="AutoFlowLayout" align=center>
 [github地址](https://github.com/LRH1993/AutoFlowLayout)<br/>
 描述:<br/>
 自动流式布局，很多地方都有用到，网格布局，九宫格布局等，和Google官方的flexlayout其实效果是一样的，但是这个是中文的
@@ -143,7 +144,7 @@ android可以实现点击之后显示一个下拉的选择内容，并且有动�
 这个就厉害了，是一个关于照片裁剪的框架，反正就是如果拍摄的照片有各种各样的问题，可以实现图片的美化(不是美颜)
 
 # android_material_design_rating_bar
-![MaterialRatingBar](/img/MaterialRatingBar_01.jpg)<br/>
+<img src="/img/MaterialRatingBar_01.jpg" width="250px" height="500px" alt="MaterialRatingBar" align=center>
 [github地址](https://github.com/DreaminginCodeZH/MaterialRatingBar)<br/>
 描述:<br/>
 关于Material Design的星级组件
@@ -169,8 +170,8 @@ android可以实现点击之后显示一个下拉的选择内容，并且有动�
 又一个关于快速开发框架工具集合的框架，包括了支付宝，微信，定位相关数据转换，手机权限
 
 # android_MultiSnapRecyclerView
-![MultiSnapRecyclerView](/img/MultiSnapRecyclerView_01.gif)<br/>
-![MultiSnapRecyclerView](/img/MultiSnapRecyclerView_02.gif)<br/>
+<img src="/img/MultiSnapRecyclerView_01.gif" width="250px" height="500px" alt="MultiSnapRecyclerView" align=center>
+<img src="/img/MultiSnapRecyclerView_02.gif" width="250px" height="500px" alt="MultiSnapRecyclerView" align=center>
 [github地址](https://github.com/TakuSemba/MultiSnapRecyclerView)<br/>
 描述:<br/>
 话不多说，直接看效果图，我相信你会需要的
@@ -200,7 +201,8 @@ Android广告轮播图，正常显示，没有酷炫的操作,但是功能样式
 Android的通知工具类
 
 # android_FlowLayout
-![FlowLayout](/img/FlowLayout_01.png)<br/>
+
+<img src="/img/FlowLayout_01.png" width="250px" height="500px" alt="FlowLayout" align=center>
 [github地址](https://github.com/nex3z/FlowLayout)<br/>
 描述:<br/>
 一个关于流式布局的框架，和Google官方的例子基本一样
@@ -256,7 +258,7 @@ android 利用Recyclerview实现分组列表
 Android的UI布局样式
 
 # android-topeka
-![android-topeka](/img/android-topeka_01.png)<br/>
+<img src="/img/android.png" width="250px" height="500px" alt="android-topeka" align=center>
 [github地址](https://github.com/googlesamples/android-topeka)
 描述:<br/>
 这个布局样式叫什么名字呢？字面翻译就是皮卡，但是我也不确定这样翻译是否正确，就先这么叫着吧，反正样式是挺好看的
@@ -319,10 +321,11 @@ Android的UI布局样式
 [github地址](https://github.com/crazycodeboy/TakePhoto)
 描述:<br />
 Android本地图片选择拍照框架
-![拍照](/img/takephoto.gif)
-![选择照片](/img/takephoto_02.gif)
+<img src="/img/takephoto.gif" width="250px" height="500px" alt="拍照" align=center>
+<img src="/img/takephoto_02.gif" width="250px" height="500px" alt="选择照片" align=center>
 
 # Tiny
 [github地址](https://github.com/Sunzxyong/Tiny)
 描述：<br />
 Android图片压缩框架
+
