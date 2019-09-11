@@ -1,6 +1,6 @@
 
 # android_segment
-![android_segmented](/img/segment_01.gif =300x500)
+![android_segmented](/img/segment_01.gif){:height="300px" width="500px"}
 <br/>
 [github地址](https://github.com/Kaopiz/android-segmented-control)
 <br/>
