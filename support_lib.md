@@ -106,7 +106,7 @@ android可以实现点击之后显示一个下拉的选择内容，并且有动�
 [github地址](https://github.com/Luosunce/material-design-data)<br/>
 
 # android-logger
-<img src="/img/logger_01.gif" width="250px" height="500px" alt="logger" align=center>
+<img src="/img/logger_01.png" width="250px" height="500px" alt="logger" align=center>
 [github地址](https://github.com/orhanobut/logger)<br/>
 描述:<br/>
 一个关于Android的Log日志打印的框架，可以打印字符串，对象，集合等内容
@@ -247,7 +247,7 @@ Android的通知工具类
 Android自定义日历组件，使用canvas绘制，反正挺好用的
 
 # android_ExpandableRecyclerView
-![ExpandableRecyclerView](/img/ExpandableRecyclerView_01.gif)<br/>
+![ExpandableRecyclerView](/img/expandableRecyclerView.gif)<br/>
 [github地址](https://github.com/hgDendi/ExpandableRecyclerView)<br/>
 描述:<br/>
 android 利用Recyclerview实现分组列表
@@ -258,7 +258,7 @@ android 利用Recyclerview实现分组列表
 Android的UI布局样式
 
 # android-topeka
-<img src="/img/android.png" width="250px" height="500px" alt="android-topeka" align=center>
+<img src="/img/android-topeka_01.png" width="250px" height="500px" alt="android-topeka" align=center>
 [github地址](https://github.com/googlesamples/android-topeka)
 描述:<br/>
 这个布局样式叫什么名字呢？字面翻译就是皮卡，但是我也不确定这样翻译是否正确，就先这么叫着吧，反正样式是挺好看的
@@ -320,7 +320,7 @@ Android的UI布局样式
 # TakePhoto
 [github地址](https://github.com/crazycodeboy/TakePhoto)
 描述:<br />
-Android本地图片选择拍照框架
+Android本地图片选择拍照框架<br />
 <img src="/img/takephoto.gif" width="250px" height="500px" alt="拍照" align=center>
 <img src="/img/takephoto_02.gif" width="250px" height="500px" alt="选择照片" align=center>
 
