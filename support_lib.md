@@ -1,6 +1,6 @@
 
 # android_segment
-<img src="/img/segment_01.gif" width="300px" height="500px" alt="android_segmented" align=center>
+<img src="/img/segment_01.gif" alt="android_segmented" align=center>
 <br/>
 [github地址](https://github.com/Kaopiz/android-segmented-control)
 <br/>
@@ -18,7 +18,8 @@
 新手引导页面，可以快速指导用户如何操作App
 
 # android_range_seek_bar
-![range_seek_bar](/img/seekbar_01.gif)
+
+<img src="/img/seekbar_01.gif" width="300px" height="500px" alt="android_segmented" align=center>
 <br/>
 [github地址](https://github.com/Jay-Goo/RangeSeekBar)
 <br/>
